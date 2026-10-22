@@ -1,0 +1,51 @@
+
+# Healthcare AI Governance & Assurance
+# Git ignore configuration
+
+# Microsoft Excel temporary and lock files
+~$*
+*.tmp
+*.temp
+
+# Microsoft Office backup files
+*.asd
+*.wbk
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor configuration
+.vscode/
+.idea/
+
+# Logs and temporary output
+*.log
+*.bak
+*.swp
+
+# Local working directories
+scratch/
+temp/
+tmp/
