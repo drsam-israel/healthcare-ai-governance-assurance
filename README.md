@@ -1,3 +1,4 @@
+
 # Healthcare AI Governance & Assurance
 
 **Enterprise AI System Inventory | AI Risk Management | Clinical AI Governance**
@@ -10,26 +11,32 @@ This repository presents an applied healthcare AI governance portfolio covering 
 - **SepsisIQ V2 (ANIHG-AI-002):** ICU Sepsis Early-Warning Clinical AI
 
 The repository demonstrates a structured approach to AI system registration, lifecycle oversight, risk identification, control planning, and deployment governance.
-1. Enterprise AI System Inventory
+
+## Governance Deliverables
+
+### 1. Enterprise AI System Inventory
+
 A centralized governance register documenting AI system identity, intended use, lifecycle status, accountability, risk classification, and assurance requirements.
 
-View / Download Enterprise AI System Inventory
+**[View / Download Enterprise AI System Inventory](artifacts/ANIHG_AI_System_Inventory.xlsx)**
 
-2. ReadmitAI — AI Risk Register
+### 2. ReadmitAI — AI Risk Register
+
 A system-specific risk register covering predictive model limitations, clinical safety, human oversight, fairness, data governance, and deployment risks.
 
-View / Download ReadmitAI AI Risk Register
+**[View / Download ReadmitAI AI Risk Register](artifacts/ReadmitAI_AI_Risk_Register.xlsx)**
 
-3. SepsisIQ V2 — AI Risk Register
+### 3. SepsisIQ V2 — AI Risk Register
+
 A system-specific risk register addressing ICU sepsis prediction risks, model performance, alert burden, clinical safety, human oversight, and deployment controls.
 
-View / Download SepsisIQ V2 AI Risk Register
+**[View / Download SepsisIQ V2 AI Risk Register](artifacts/SepsisIQ_V2_AI_Risk_Register.xlsx)**
 
 ## Governance Approach
 
 The portfolio follows an evidence-based AI governance lifecycle:
 
-AI System Registration → Risk Identification → Risk Assessment → Control Planning → Validation → Deployment Readiness → Monitoring and Review
+**AI System Registration → Risk Identification → Risk Assessment → Control Planning → Validation → Deployment Readiness → Monitoring and Review**
 
 The work draws on responsible AI principles and relevant AI risk management frameworks, including NIST AI RMF and ISO/IEC 42001.
 
