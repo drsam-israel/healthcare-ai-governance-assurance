@@ -10,17 +10,16 @@ This repository presents an applied healthcare AI governance portfolio covering 
 - **SepsisIQ V2 (ANIHG-AI-002):** ICU Sepsis Early-Warning Clinical AI
 
 The repository demonstrates a structured approach to AI system registration, lifecycle oversight, risk identification, control planning, and deployment governance.
-
-## Governance Deliverables
-
 1. Enterprise AI System Inventory
 A centralized governance register documenting AI system identity, intended use, lifecycle status, accountability, risk classification, and assurance requirements.
 
 View / Download Enterprise AI System Inventory
+
 2. ReadmitAI — AI Risk Register
 A system-specific risk register covering predictive model limitations, clinical safety, human oversight, fairness, data governance, and deployment risks.
 
 View / Download ReadmitAI AI Risk Register
+
 3. SepsisIQ V2 — AI Risk Register
 A system-specific risk register addressing ICU sepsis prediction risks, model performance, alert burden, clinical safety, human oversight, and deployment controls.
 
